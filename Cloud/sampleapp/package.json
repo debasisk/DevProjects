@@ -1,0 +1,11 @@
+{
+  "name": "initgitrepo",
+  "version": "1.0.0",
+  "description": "This is to initialize the cloud works in Git - Just to create the folder structures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
